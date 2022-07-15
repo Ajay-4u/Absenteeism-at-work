@@ -32,13 +32,13 @@ I Certain infectious and parasitic diseases
 - XXI Factors influencing health status and contact with health services.
 
 And 7 categories without (CID) 
-patient follow-up (22), 
-medical consultation (23), 
-blood donation (24), 
-laboratory examination (25), 
-unjustified absence (26), 
-physiotherapy (27), 
-dental consultation (28).
+- patient follow-up (22), 
+- medical consultation (23), 
+- blood donation (24), 
+- laboratory examination (25), 
+- unjustified absence (26), 
+- physiotherapy (27), 
+- dental consultation (28).
 
 column 3
 Month of absence
